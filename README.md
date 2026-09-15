@@ -1,6 +1,7 @@
 # Tokenization Analysis Benchmark for Low-Resource Languages (Amharic vs. English)
 
 **Author:** Bedru Yimam Ahmed
+**Email:** bedruy4@gmail.com
 
 Evaluates tokenization inefficiencies, subword fragmentation, fertility ratios,
 and context-window exhaustion across standard, multilingual, and
