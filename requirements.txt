@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+transformers
+tiktoken
+matplotlib
+torch
+sentencepiece
