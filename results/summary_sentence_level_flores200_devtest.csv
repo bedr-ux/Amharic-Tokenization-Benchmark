@@ -1,0 +1,19 @@
+Model/Tokenizer,Language,N sentences,Fertility Ratio (mean),Fertility Ratio (95% CI low),Fertility Ratio (95% CI high),Chars Per Token (CPT) (mean),Chars Per Token (CPT) (95% CI low),Chars Per Token (CPT) (95% CI high),Tokens Per Byte (mean),Tokens Per Byte (95% CI low),Tokens Per Byte (95% CI high)
+Llama-3-8B (Standard),Amharic,1012,11.973,11.887,12.06,0.423,0.422,0.425,0.914,0.913,0.915
+Llama-3-8B (Standard),English,1012,1.25,1.24,1.26,4.9,4.859,4.942,0.208,0.206,0.21
+Multilingual-E5 (Optimized),Amharic,1012,2.358,2.334,2.382,2.182,2.163,2.2,0.181,0.179,0.182
+Multilingual-E5 (Optimized),English,1012,1.413,1.401,1.425,4.329,4.297,4.361,0.234,0.232,0.236
+XLM-RoBERTa-base (Multilingual Baseline),Amharic,1012,2.358,2.334,2.382,2.182,2.163,2.2,0.181,0.179,0.182
+XLM-RoBERTa-base (Multilingual Baseline),English,1012,1.413,1.401,1.425,4.329,4.297,4.361,0.234,0.232,0.236
+Llama-3.2-1B-Amharic (Specialized),Amharic,1012,1.772,1.753,1.791,2.911,2.883,2.938,0.136,0.135,0.138
+Llama-3.2-1B-Amharic (Specialized),English,1012,1.25,1.24,1.26,4.9,4.859,4.942,0.208,0.206,0.21
+LLAMA-Walia-II (Specialized),Amharic,1012,1.637,1.619,1.655,3.157,3.126,3.187,0.126,0.124,0.127
+LLAMA-Walia-II (Specialized),English,1012,1.398,1.384,1.411,4.393,4.357,4.429,0.232,0.23,0.234
+RoBERTa-Amharic-Embed (Specialized),Amharic,1012,1.608,1.587,1.628,3.244,3.207,3.281,0.124,0.122,0.125
+RoBERTa-Amharic-Embed (Specialized),English,1012,4.066,4.036,4.096,1.494,1.488,1.499,0.671,0.669,0.674
+Tiny Aya Earth (Multilingual/African-focused),Amharic,1012,3.302,3.273,3.33,1.544,1.535,1.553,0.253,0.251,0.254
+Tiny Aya Earth (Multilingual/African-focused),English,1012,1.248,1.238,1.258,4.904,4.863,4.945,0.208,0.206,0.209
+AfroXLMR-large (African-focused),Amharic,1012,2.358,2.334,2.382,2.182,2.163,2.2,0.181,0.179,0.182
+AfroXLMR-large (African-focused),English,1012,1.413,1.401,1.425,4.329,4.297,4.361,0.234,0.232,0.236
+GPT-4o (tiktoken o200k_base),Amharic,1012,9.008,8.949,9.066,0.562,0.56,0.563,0.689,0.688,0.689
+GPT-4o (tiktoken o200k_base),English,1012,1.236,1.226,1.246,4.95,4.909,4.991,0.206,0.204,0.207

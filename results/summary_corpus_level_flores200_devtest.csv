@@ -1,0 +1,10 @@
+Model/Tokenizer,Fertility Amharic,Fertility Amharic CI low,Fertility Amharic CI high,Fertility English,Fertility English CI low,Fertility English CI high,Gap (Am/En),Gap (Am/En) CI low,Gap (Am/En) CI high,CPT Amharic,CPT Amharic CI low,CPT Amharic CI high,CPT English,CPT English CI low,CPT English CI high
+Llama-3-8B (Standard),11.894,11.816,11.976,1.241,1.231,1.25,9.587,9.483,9.696,0.423,0.422,0.424,4.857,4.815,4.9
+GPT-4o (tiktoken o200k_base),8.961,8.908,9.016,1.227,1.218,1.236,7.303,7.228,7.38,0.561,0.56,0.562,4.911,4.869,4.953
+Tiny Aya Earth (Multilingual/African-focused),3.266,3.239,3.293,1.239,1.23,1.248,2.635,2.609,2.663,1.539,1.531,1.548,4.862,4.819,4.903
+Multilingual-E5 (Optimized),2.335,2.312,2.357,1.4,1.389,1.411,1.668,1.651,1.685,2.154,2.136,2.172,4.304,4.273,4.336
+XLM-RoBERTa-base (Multilingual Baseline),2.335,2.312,2.357,1.4,1.389,1.411,1.668,1.651,1.685,2.154,2.136,2.172,4.304,4.273,4.336
+AfroXLMR-large (African-focused),2.335,2.312,2.357,1.4,1.389,1.411,1.668,1.651,1.685,2.154,2.136,2.172,4.304,4.273,4.336
+Llama-3.2-1B-Amharic (Specialized),1.751,1.732,1.769,1.241,1.231,1.25,1.411,1.398,1.424,2.872,2.845,2.901,4.857,4.815,4.9
+LLAMA-Walia-II (Specialized),1.623,1.606,1.64,1.386,1.373,1.398,1.171,1.16,1.183,3.098,3.068,3.128,4.348,4.313,4.385
+RoBERTa-Amharic-Embed (Specialized),1.594,1.574,1.612,4.039,4.01,4.068,0.395,0.389,0.4,3.154,3.117,3.191,1.492,1.487,1.497

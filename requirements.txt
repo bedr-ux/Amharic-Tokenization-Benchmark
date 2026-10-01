@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+matplotlib
+transformers
+tiktoken
+sentencepiece
+huggingface_hub
+jupyter
